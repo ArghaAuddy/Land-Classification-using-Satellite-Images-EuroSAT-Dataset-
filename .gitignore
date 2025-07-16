@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/
+script/
+*.h5
+.DS_Store
+
